@@ -1,8 +1,90 @@
 <html>
 
-<head></head>
+<head>
+
+  <style>
+    p {
+      border-bottom: solid 3px pink;
+      padding-bottom: 10px;
+    }
+
+    .testClass1 {
+      border-bottom-color: black;
+    }
+
+    .testClass1 b {
+      color: red;
+    }
+
+    .testClass2 {
+      background-color: black;
+      border: 3px dashed green;
+      color: white;
+      padding: 10px;
+    }
+
+    .nav {
+      background-color: lightgrey;
+      padding: 10px;
+      margin: 0;
+    }
+
+    .nav li {
+      display: inline;
+      padding-left: 20px;
+      background-color: grey;
+    }
+
+    .container {
+      border: 1px solid black;
+      padding: 0px 0px;
+      max-width: 800px;
+    }
+
+    .container p {
+      border: none;
+    }
+
+    .content {
+      padding: 20px;
+    }
+  </style>
+
+</head>
 
 <body>
+  <h1>Test text</h1>
+  <p>Test Paragraph</p>
+  <hr />
+  <p>Test paragraph 2</p>
+
+  <h1>Test text 2</h1>
+  <p class="testClass1">Test Paragraph
+    <b>Test Text</b>
+  </p>
+  <hr />
+  <p class="testClass2">Test paragraph 2</p>
+
+
+
+  <div class="container">
+    <ul class="nav">
+      <li>
+        <a href="#">Home</a>
+      </li>
+      <li>
+        <a href="#">Test</a>
+      </li>
+    </ul>
+    <div class="content">
+      <h1>Test heading</h1>
+      <h4>Subheading</h4>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque neque blanditiis nesciunt adipisci! Illum tempora magni
+        maiores unde aut exercitationem nobis, ratione eos consectetur temporibus officiis distinctio officia sequi ut rerum
+        eligendi nesciunt dolorum blanditiis omnis? Distinctio doloribus assumenda nisi, recusandae necessitatibus repudiandae
+        temporibus minima laudantium eos labore, neque incidunt?</p>
+    </div>
+  </div>
 
 </body>
 
