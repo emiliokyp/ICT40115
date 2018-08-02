@@ -1,0 +1,4 @@
+H:\Week1b\Week1b\bin\Debug\Week1b.exe
+H:\Week1b\Week1b\bin\Debug\Week1b.pdb
+H:\Week1b\Week1b\obj\x86\Debug\Week1b.exe
+H:\Week1b\Week1b\obj\x86\Debug\Week1b.pdb
