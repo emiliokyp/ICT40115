@@ -1,0 +1,10 @@
+.col {
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.col-3 {
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: 5px;
+}
