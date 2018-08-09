@@ -1,0 +1,10 @@
+H:\WEB\week02\portfolio2\portfolio2\bin\Debug\netcoreapp1.1\portfolio2.deps.json
+H:\WEB\week02\portfolio2\portfolio2\bin\Debug\netcoreapp1.1\portfolio2.runtimeconfig.json
+H:\WEB\week02\portfolio2\portfolio2\bin\Debug\netcoreapp1.1\portfolio2.runtimeconfig.dev.json
+H:\WEB\week02\portfolio2\portfolio2\bin\Debug\netcoreapp1.1\portfolio2.dll
+H:\WEB\week02\portfolio2\portfolio2\bin\Debug\netcoreapp1.1\portfolio2.pdb
+H:\WEB\week02\portfolio2\portfolio2\obj\Debug\netcoreapp1.1\portfolio2.csprojResolveAssemblyReference.cache
+H:\WEB\week02\portfolio2\portfolio2\obj\Debug\netcoreapp1.1\portfolio2.csproj.CoreCompileInputs.cache
+H:\WEB\week02\portfolio2\portfolio2\obj\Debug\netcoreapp1.1\portfolio2.AssemblyInfo.cs
+H:\WEB\week02\portfolio2\portfolio2\obj\Debug\netcoreapp1.1\portfolio2.dll
+H:\WEB\week02\portfolio2\portfolio2\obj\Debug\netcoreapp1.1\portfolio2.pdb
