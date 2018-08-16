@@ -1,0 +1,101 @@
+'Suburb'	'Description'	'Total Customers'
+'Ascot Vale'	'High Value'	5
+'Ascot Vale'	'Low Value'	2
+'Ascot Vale'	'Neutral'	2
+'Brooklyn'	'Low Value'	3
+'Brooklyn'	'Neutral'	4
+'Brunswick'	'High Value'	3
+'Brunswick'	'Low Value'	5
+'Brunswick'	'Neutral'	5
+'Bundoora'	'High Value'	1
+'Bundoora'	'Low Value'	1
+'Bundoora'	'Neutral'	2
+'Carlton'	'High Value'	2
+'Carlton'	'Low Value'	4
+'Carlton'	'Neutral'	2
+'Chadstone'	'High Value'	2
+'Chadstone'	'Low Value'	2
+'Chadstone'	'Neutral'	2
+'Coburg North'	'High Value'	3
+'Coburg North'	'Neutral'	3
+'Craigieburn'	'Low Value'	1
+'Craigieburn'	'Neutral'	3
+'Cranbourne'	'High Value'	3
+'Cranbourne'	'Low Value'	3
+'Cranbourne'	'Neutral'	4
+'Epping'	'High Value'	6
+'Epping'	'Low Value'	1
+'Epping'	'Neutral'	4
+'Essendon'	'High Value'	1
+'Essendon'	'Low Value'	2
+'Essendon'	'Neutral'	5
+'Fitzroy'	'High Value'	7
+'Fitzroy'	'Low Value'	7
+'Fitzroy'	'Neutral'	8
+'Footscray'	'Low Value'	1
+'Footscray'	'Neutral'	2
+'Glenroy'	'High Value'	2
+'Glenroy'	'Low Value'	7
+'Glenroy'	'Neutral'	1
+'Hawthorn'	'High Value'	6
+'Hawthorn'	'Low Value'	10
+'Hawthorn'	'Neutral'	13
+'Hillside'	'High Value'	1
+'Hillside'	'Low Value'	1
+'Hillside'	'Neutral'	3
+'Hoppers Crossing'	'High Value'	2
+'Hoppers Crossing'	'Low Value'	3
+'Hoppers Crossing'	'Neutral'	5
+'Hurstbridge'	'High Value'	1
+'Hurstbridge'	'Low Value'	3
+'Hurstbridge'	'Neutral'	1
+'Keilor Downs'	'High Value'	4
+'Keilor Downs'	'Low Value'	8
+'Keilor Downs'	'Neutral'	3
+'Kensington'	'High Value'	6
+'Kensington'	'Low Value'	6
+'Kensington'	'Neutral'	7
+'Lalor'	'High Value'	3
+'Lalor'	'Low Value'	3
+'Lalor'	'Neutral'	2
+'Mentone'	'High Value'	1
+'Mentone'	'Low Value'	3
+'Mill Park'	'High Value'	5
+'Mill Park'	'Low Value'	3
+'Mill Park'	'Neutral'	2
+'Moonee Ponds'	'High Value'	2
+'Moonee Ponds'	'Low Value'	3
+'Moonee Ponds'	'Neutral'	8
+'North Melbourne'	'Low Value'	3
+'North Melbourne'	'Neutral'	3
+'Northcote'	'High Value'	2
+'Northcote'	'Low Value'	3
+'Northcote'	'Neutral'	7
+'Point Cook'	'High Value'	4
+'Point Cook'	'Low Value'	3
+'Point Cook'	'Neutral'	2
+'Preston'	'High Value'	2
+'Preston'	'Low Value'	1
+'Preston'	'Neutral'	1
+'Reservoir'	'High Value'	4
+'Reservoir'	'Low Value'	2
+'Reservoir'	'Neutral'	7
+'Richmond'	'High Value'	4
+'Richmond'	'Low Value'	2
+'Richmond'	'Neutral'	5
+'Scoresby'	'High Value'	6
+'Scoresby'	'Low Value'	7
+'Scoresby'	'Neutral'	6
+'Sunshine North'	'Low Value'	2
+'Sunshine West'	'High Value'	2
+'Sunshine West'	'Low Value'	2
+'Sunshine West'	'Neutral'	5
+'Thomastown'	'High Value'	5
+'Thomastown'	'Low Value'	3
+'Thomastown'	'Neutral'	2
+'Wattle Park'	'High Value'	3
+'Wattle Park'	'Low Value'	1
+'Wattle Park'	'Neutral'	2
+'Yarraville'	'High Value'	2
+'Yarraville'	'Low Value'	3
+'Yarraville'	'Neutral'	4

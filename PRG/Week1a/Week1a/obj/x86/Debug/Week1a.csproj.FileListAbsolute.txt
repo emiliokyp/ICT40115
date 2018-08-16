@@ -2,3 +2,8 @@ H:\Week1a\Week1a\bin\Debug\Week1a.exe
 H:\Week1a\Week1a\bin\Debug\Week1a.pdb
 H:\Week1a\Week1a\obj\x86\Debug\Week1a.exe
 H:\Week1a\Week1a\obj\x86\Debug\Week1a.pdb
+H:\PRG\Week1a\Week1a\bin\Debug\Week1a.exe
+H:\PRG\Week1a\Week1a\bin\Debug\Week1a.pdb
+H:\PRG\Week1a\Week1a\obj\x86\Debug\Week1a.csproj.CoreCompileInputs.cache
+H:\PRG\Week1a\Week1a\obj\x86\Debug\Week1a.exe
+H:\PRG\Week1a\Week1a\obj\x86\Debug\Week1a.pdb
