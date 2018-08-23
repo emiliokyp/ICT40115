@@ -1,0 +1,7 @@
+H:\PRG\Week3b\Week3b\obj\Debug\Week3b.csprojAssemblyReference.cache
+H:\PRG\Week3b\Week3b\obj\Debug\Week3b.csproj.CoreCompileInputs.cache
+H:\PRG\Week3b\Week3b\bin\Debug\Week3b.exe.config
+H:\PRG\Week3b\Week3b\bin\Debug\Week3b.exe
+H:\PRG\Week3b\Week3b\bin\Debug\Week3b.pdb
+H:\PRG\Week3b\Week3b\obj\Debug\Week3b.exe
+H:\PRG\Week3b\Week3b\obj\Debug\Week3b.pdb

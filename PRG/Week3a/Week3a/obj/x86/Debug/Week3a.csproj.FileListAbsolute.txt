@@ -1,0 +1,6 @@
+H:\PRG\Week3a\Week3a\bin\Debug\Week3a.exe
+H:\PRG\Week3a\Week3a\bin\Debug\Week3a.pdb
+H:\PRG\Week3a\Week3a\obj\x86\Debug\Week3a.exe
+H:\PRG\Week3a\Week3a\obj\x86\Debug\Week3a.pdb
+H:\PRG\Week3a\Week3a\obj\x86\Debug\Week3a.csprojAssemblyReference.cache
+H:\PRG\Week3a\Week3a\obj\x86\Debug\Week3a.csproj.CoreCompileInputs.cache

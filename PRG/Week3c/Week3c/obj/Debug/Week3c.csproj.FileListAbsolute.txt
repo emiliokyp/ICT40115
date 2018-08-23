@@ -1,0 +1,7 @@
+H:\PRG\Week3c\Week3c\bin\Debug\Week3c.exe.config
+H:\PRG\Week3c\Week3c\bin\Debug\Week3c.exe
+H:\PRG\Week3c\Week3c\bin\Debug\Week3c.pdb
+H:\PRG\Week3c\Week3c\obj\Debug\Week3c.csprojAssemblyReference.cache
+H:\PRG\Week3c\Week3c\obj\Debug\Week3c.csproj.CoreCompileInputs.cache
+H:\PRG\Week3c\Week3c\obj\Debug\Week3c.exe
+H:\PRG\Week3c\Week3c\obj\Debug\Week3c.pdb
