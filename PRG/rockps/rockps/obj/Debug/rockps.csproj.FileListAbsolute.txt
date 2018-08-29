@@ -1,7 +1,0 @@
-H:\PRG\rockps\rockps\obj\Debug\rockps.csprojAssemblyReference.cache
-H:\PRG\rockps\rockps\obj\Debug\rockps.csproj.CoreCompileInputs.cache
-H:\PRG\rockps\rockps\bin\Debug\rockps.exe.config
-H:\PRG\rockps\rockps\bin\Debug\rockps.exe
-H:\PRG\rockps\rockps\bin\Debug\rockps.pdb
-H:\PRG\rockps\rockps\obj\Debug\rockps.exe
-H:\PRG\rockps\rockps\obj\Debug\rockps.pdb
