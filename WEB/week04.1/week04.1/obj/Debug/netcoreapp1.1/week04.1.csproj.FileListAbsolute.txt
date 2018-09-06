@@ -1,0 +1,10 @@
+H:\WEB\week04.1\week04.1\bin\Debug\netcoreapp1.1\week04.1.deps.json
+H:\WEB\week04.1\week04.1\bin\Debug\netcoreapp1.1\week04.1.runtimeconfig.json
+H:\WEB\week04.1\week04.1\bin\Debug\netcoreapp1.1\week04.1.runtimeconfig.dev.json
+H:\WEB\week04.1\week04.1\bin\Debug\netcoreapp1.1\week04.1.dll
+H:\WEB\week04.1\week04.1\bin\Debug\netcoreapp1.1\week04.1.pdb
+H:\WEB\week04.1\week04.1\obj\Debug\netcoreapp1.1\week04.1.csprojResolveAssemblyReference.cache
+H:\WEB\week04.1\week04.1\obj\Debug\netcoreapp1.1\week04.1.csproj.CoreCompileInputs.cache
+H:\WEB\week04.1\week04.1\obj\Debug\netcoreapp1.1\week04.1.AssemblyInfo.cs
+H:\WEB\week04.1\week04.1\obj\Debug\netcoreapp1.1\week04.1.dll
+H:\WEB\week04.1\week04.1\obj\Debug\netcoreapp1.1\week04.1.pdb
