@@ -1,0 +1,209 @@
+[2018-09-13 13:10:29.202] [sharedprocess] [info] main {"machineId":"ff1efb79f6159de0ab7389426b4fffe09f3f7cb458c70bbbd41a3fe855f179f1"}
+[2018-09-13 13:10:29.224] [sharedprocess] [trace] Started scanning system extensions
+[2018-09-13 13:10:29.224] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:10:29.225] [sharedprocess] [trace] telemetry/optInStatus {"optIn":true}
+[2018-09-13 13:10:29.345] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:10:29.417] [sharedprocess] [trace] Started scanning system extensions
+[2018-09-13 13:10:29.417] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:10:29.417] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:10:29.417] [sharedprocess] [trace] Started scanning system extensions
+[2018-09-13 13:10:29.417] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:10:29.431] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:10:29.431] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:10:29.594] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:10:29.596] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:10:29.619] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:10:29.712] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:10:29.715] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:10:29.716] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:10:29.817] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:10:29.821] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:10:29.864] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-13 13:10:29.869] [sharedprocess] [debug] Writing language packs {}
+[2018-09-13 13:10:29.960] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-13 13:10:29.963] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-13 13:11:08.230] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:11:08.231] [sharedprocess] [trace] Started scanning system extensions
+[2018-09-13 13:11:08.231] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:11:08.232] [sharedprocess] [trace] Started scanning system extensions
+[2018-09-13 13:11:08.232] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:11:08.233] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:11:08.256] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:11:08.414] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:11:08.415] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:11:08.423] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:11:08.438] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:11:08.465] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:11:09.225] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-13 13:11:09.835] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-13 13:11:09.842] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-13 13:16:08.879] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:16:08.879] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:16:08.881] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:16:08.881] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:16:08.899] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:21:08.907] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:21:08.907] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:21:08.909] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:21:08.910] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:21:08.930] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:26:08.938] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:26:08.938] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:26:08.940] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:26:08.941] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:26:08.958] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:31:08.968] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:31:08.968] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:31:08.972] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:31:08.973] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:31:08.993] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:36:09.021] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:36:09.021] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:36:09.025] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:36:09.027] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:36:09.046] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:41:09.065] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:41:09.065] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:41:09.069] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:41:09.070] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:41:09.091] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:46:09.098] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:46:09.098] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:46:09.102] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:46:09.103] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:46:09.125] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:51:09.132] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:51:09.132] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:51:09.135] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:51:09.136] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:51:09.156] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 13:56:09.165] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 13:56:09.165] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 13:56:09.171] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 13:56:09.171] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 13:56:09.192] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 14:01:09.200] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:01:09.200] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:01:09.202] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:01:09.203] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:01:09.219] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 14:06:09.225] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:06:09.225] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:06:09.228] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:06:09.228] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:06:09.249] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 14:11:09.256] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:11:09.256] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:11:09.294] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:11:09.295] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:11:09.311] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 14:16:09.320] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:16:09.320] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:16:09.322] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:16:09.322] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:16:09.341] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 14:21:09.348] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:21:09.348] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:21:09.352] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:21:09.353] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:21:09.371] [sharedprocess] [info] Scanned user extensions: 3
+[2018-09-13 14:26:09.378] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:26:09.378] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:26:09.380] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:26:09.381] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:26:09.405] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 14:31:09.414] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:31:09.414] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:31:09.419] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:31:09.420] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:31:09.450] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 14:36:09.458] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:36:09.458] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:36:09.461] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:36:09.462] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:36:09.490] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 14:41:09.504] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:41:09.504] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:41:09.507] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:41:09.507] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:41:09.530] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 14:46:09.546] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:46:09.546] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:46:09.550] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:46:09.551] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:46:09.579] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 14:51:09.588] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:51:09.588] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:51:09.592] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:51:09.593] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:51:09.619] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 14:56:09.628] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 14:56:09.628] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 14:56:09.632] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 14:56:09.633] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 14:56:09.658] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:01:09.665] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:01:09.665] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:01:09.667] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:01:09.668] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:01:09.692] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:06:09.702] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:06:09.702] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:06:09.705] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:06:09.706] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:06:09.734] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:11:09.744] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:11:09.744] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:11:09.809] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:11:09.809] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:11:09.833] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:16:09.841] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:16:09.841] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:16:09.845] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:16:09.846] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:16:09.874] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:21:09.886] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:21:09.886] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:21:09.890] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:21:09.891] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:21:09.920] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:26:09.929] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:26:09.929] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:26:09.933] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:26:09.934] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:26:09.959] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:31:09.967] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:31:09.967] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:31:09.971] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:31:09.972] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:31:10.000] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:36:10.012] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:36:10.012] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:36:10.016] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:36:10.017] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:36:10.344] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:41:10.355] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:41:10.355] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:41:10.360] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:41:10.361] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:41:10.385] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:46:10.394] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:46:10.394] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:46:10.398] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:46:10.399] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:46:10.425] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:51:10.434] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:51:10.434] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:51:10.439] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:51:10.440] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:51:10.468] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 15:56:10.480] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 15:56:10.480] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 15:56:10.484] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 15:56:10.485] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 15:56:10.814] [sharedprocess] [info] Scanned user extensions: 4
+[2018-09-13 16:01:10.828] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache
+[2018-09-13 16:01:10.828] [sharedprocess] [trace] RequestService#request https://az764295.vo.msecnd.net/extensions/marketplace.json
+[2018-09-13 16:01:10.833] [sharedprocess] [trace] ExtensionManagementService.refreshReportedCache - got 2 reported extensions from service
+[2018-09-13 16:01:10.834] [sharedprocess] [trace] Started scanning user extensions
+[2018-09-13 16:01:10.864] [sharedprocess] [info] Scanned user extensions: 4

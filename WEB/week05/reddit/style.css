@@ -1,0 +1,22 @@
+#logo {
+  float: left;
+}
+
+.nav-tabs {
+  padding-top: 15px !important;
+}
+
+.card {
+  margin-top: 10px !important;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.card-content {
+  padding-left: 10px;
+}

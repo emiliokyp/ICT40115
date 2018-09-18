@@ -1,0 +1,83 @@
+[2018-09-13 13:10:20.858] [main] [debug] Starting VS Code
+[2018-09-13 13:10:20.859] [main] [debug] from: t:\TAFE\ldvandervelden\Portable_VSCode\Binaries\resources\app
+[2018-09-13 13:10:20.860] [main] [debug] args: {"_":[],"help":false,"h":false,"version":false,"v":false,"wait":false,"w":false,"diff":false,"d":false,"add":false,"a":false,"goto":false,"g":false,"new-window":false,"n":false,"unity-launch":false,"reuse-window":false,"r":false,"open-url":false,"performance":false,"p":false,"prof-startup":false,"verbose":true,"logExtensionHostCommunication":false,"disable-extensions":false,"disableExtensions":false,"list-extensions":false,"show-versions":false,"nolazy":false,"issue":false,"skip-getting-started":false,"skip-release-notes":false,"sticky-quickopen":false,"disable-restore-windows":false,"disable-telemetry":false,"disable-updates":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"status":false,"s":false,"file-write":false,"file-chmod":false,"driver-verbose":false,"user-data-dir":"H:/.vscode","extensions-dir":".\\Binaries\\extensions","extensionHomePath":".\\Binaries\\extensions"}
+[2018-09-13 13:10:20.860] [main] [trace] Resolving machine identifier...
+[2018-09-13 13:10:23.041] [main] [trace] Resolved machine identifier: ff1efb79f6159de0ab7389426b4fffe09f3f7cb458c70bbbd41a3fe855f179f1
+[2018-09-13 13:10:23.056] [main] [info] update#setState idle
+[2018-09-13 13:10:23.066] [main] [trace] windowsManager#open
+[2018-09-13 13:10:23.547] [main] [trace] telemetry/optInStatus {"optIn":true}
+[2018-09-13 13:10:27.892] [main] [trace] IPC#vscode-workbenchLoaded
+[2018-09-13 13:10:27.969] [main] [trace] windowsService#whenSharedProcessReady
+[2018-09-13 13:10:27.970] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-09-13 13:10:27.970] [main] [trace] windowsService#getWindowCount
+[2018-09-13 13:10:29.352] [main] [trace] windowsService#startCrashReporter
+[2018-09-13 13:10:30.295] [main] [trace] windowsService#openExternal
+[2018-09-13 13:10:30.762] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-09-13 13:10:30.767] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:10:30.768] [main] [trace] IPC#vscode:broadcast vscode:changeColorTheme {"baseTheme":"vs-dark","background":"#1e1e1e"}
+[2018-09-13 13:10:30.795] [main] [trace] windowsService#isFocused 1
+[2018-09-13 13:10:30.796] [main] [trace] windowsService#getWindowCount
+[2018-09-13 13:10:30.804] [main] [trace] RequestService#request https://vscode-update.azurewebsites.net/api/update/win32-x64-archive/stable/7b9afc4196bda60b0facdf62cfc02815509b23d6
+[2018-09-13 13:10:30.815] [main] [trace] windowsService#isFocused 1
+[2018-09-13 13:10:31.849] [main] [trace] windowsService#getWindowCount
+[2018-09-13 13:10:34.204] [main] [trace] windowsService#pickFolderAndOpen
+[2018-09-13 13:10:53.057] [main] [trace] update#checkForUpdates, state =  idle
+[2018-09-13 13:10:53.058] [main] [info] update#setState checking for updates
+[2018-09-13 13:10:53.058] [main] [trace] RequestService#request https://vscode-update.azurewebsites.net/api/update/win32-x64-archive/stable/7b9afc4196bda60b0facdf62cfc02815509b23d6
+[2018-09-13 13:10:53.453] [main] [info] update#setState available for download
+[2018-09-13 13:10:57.176] [main] [trace] telemetry/openFolder {"outcome":"success","numberOfPaths":1}
+[2018-09-13 13:10:57.177] [main] [trace] windowsManager#open
+[2018-09-13 13:10:57.182] [main] [trace] Lifecycle#unload() 1
+[2018-09-13 13:10:57.503] [main] [trace] Lifecycle#unload(): unload continues without veto 1
+[2018-09-13 13:10:57.504] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-09-13 13:11:03.592] [main] [trace] windowsService#whenSharedProcessReady
+[2018-09-13 13:11:03.640] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-09-13 13:11:03.768] [main] [trace] windowsService#getWindowCount
+[2018-09-13 13:11:05.066] [main] [trace] IPC#vscode-workbenchLoaded
+[2018-09-13 13:11:07.286] [main] [trace] IPC#vscode:broadcast vscode:changeColorTheme {"baseTheme":"vs-dark","background":"#1e1e1e"}
+[2018-09-13 13:11:08.177] [main] [trace] windowsService#startCrashReporter
+[2018-09-13 13:11:09.298] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-09-13 13:11:09.300] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:11:09.301] [main] [trace] RequestService#request https://vscode-update.azurewebsites.net/api/update/win32-x64-archive/stable/7b9afc4196bda60b0facdf62cfc02815509b23d6
+[2018-09-13 13:11:09.302] [main] [trace] windowsService#isFocused 1
+[2018-09-13 13:11:09.494] [main] [trace] windowsService#getWindowCount
+[2018-09-13 13:11:14.757] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:11:19.358] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:11:23.795] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:11:25.116] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:11:25.451] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:11:58.536] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:11:58.896] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:12:06.220] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 13:15:09.531] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:10:53.125] [main] [trace] update#checkForUpdates, state =  available for download
+[2018-09-13 14:21:32.634] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:21:33.085] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:21:46.230] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:21:46.721] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:23:23.904] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:23:24.292] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:24:37.498] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:43:08.428] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-09-13 14:43:10.405] [main] [trace] windowsService#getRecentlyOpened 1
+[2018-09-13 14:48:46.028] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:49:20.919] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:49:21.860] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:51:29.768] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:51:55.814] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:52:25.684] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:52:28.546] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:52:28.960] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:52:34.685] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:54:08.591] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 14:54:13.697] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 15:10:53.180] [main] [trace] update#checkForUpdates, state =  available for download
+[2018-09-13 15:34:06.443] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 15:34:21.656] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 15:34:22.387] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 15:34:23.488] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 15:34:23.955] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 15:34:25.446] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 15:34:25.873] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 15:34:38.484] [main] [trace] windowsService#setRepresentedFilename 1
+[2018-09-13 16:02:22.040] [main] [error] [VS Code]: render process crashed!
