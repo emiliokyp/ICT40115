@@ -1,0 +1,4 @@
+H:\PRG\week05\tasks\selection\selection\bin\Debug\selection.exe
+H:\PRG\week05\tasks\selection\selection\bin\Debug\selection.pdb
+H:\PRG\week05\tasks\selection\selection\obj\x86\Debug\selection.exe
+H:\PRG\week05\tasks\selection\selection\obj\x86\Debug\selection.pdb

@@ -1,0 +1,4 @@
+H:\PRG\week07\week07a\week07a\bin\Debug\week07a.exe
+H:\PRG\week07\week07a\week07a\bin\Debug\week07a.pdb
+H:\PRG\week07\week07a\week07a\obj\x86\Debug\week07a.exe
+H:\PRG\week07\week07a\week07a\obj\x86\Debug\week07a.pdb

@@ -1,0 +1,6 @@
+H:\PRG\week04\tasks\variables\variables\obj\x86\Debug\variables.csprojAssemblyReference.cache
+H:\PRG\week04\tasks\variables\variables\obj\x86\Debug\variables.csproj.CoreCompileInputs.cache
+H:\PRG\week04\tasks\variables\variables\bin\Debug\variables.exe
+H:\PRG\week04\tasks\variables\variables\bin\Debug\variables.pdb
+H:\PRG\week04\tasks\variables\variables\obj\x86\Debug\variables.exe
+H:\PRG\week04\tasks\variables\variables\obj\x86\Debug\variables.pdb

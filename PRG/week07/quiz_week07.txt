@@ -1,0 +1,48 @@
+1. 
+int for numbers without decimals (5)
+float for numbers with decimals (5.1)
+string for a collection of char ("hello world")
+
+2.
+a data type that is embedded into the programming language itself and can be used without importing libraries, such as int, string, float in C#
+
+3. 
+Passing by value makes a copy essentially, whereas passing by reference points to the same point in memory
+
+4. 
+checks if one value is not equal to the other (!=)
+
+5.
+"=" is attempting to change a value whereas "==" is comparing to values to see if they are equal.
+
+6.
+"<>" is not a valid operator in C#, but in some languages it is the same as "!="
+
+7.
+default runs if all the other cases are not met
+
+8.
+you cannot have else without an if
+
+9.
+you can't have multiple else statements unless they are an "else if"
+
+10.
+runtime error occurs when the program begins to run, it successfully compiled but there may be bugs in the code that cause runtime errors. (such as passing a string to the int.Parse() function)
+
+11.
+a syntax error is when you have a mistake in the way you have written the code, it make be as simple as leaving out a ;
+
+12.
+A compiler generally takes in your code and spits out machine readable code
+
+13.
+a while loop will run only if the condition is true where as a do while loop will always run once.
+
+while (false) {
+	Console.WriteLine("I will not show because the condition is false");
+}
+
+do {
+	Console.WriteLine("I will show up on the console one time");
+} while (false)

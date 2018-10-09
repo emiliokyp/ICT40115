@@ -1,0 +1,4 @@
+H:\PRG\week05\tasks\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+H:\PRG\week05\tasks\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+H:\PRG\week05\tasks\fizzbuzz\fizzbuzz\obj\x86\Debug\fizzbuzz.exe
+H:\PRG\week05\tasks\fizzbuzz\fizzbuzz\obj\x86\Debug\fizzbuzz.pdb

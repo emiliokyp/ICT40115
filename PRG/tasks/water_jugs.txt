@@ -1,0 +1,6 @@
+1. Fill the 5l jug
+2. Pour the contents of the 5l jug into the 3l litre jug
+3. Empty the 3l jug
+4. Pour the contents of the 5l jug into the 3l jug, leaving the 3l jug with 2l inside
+5. Fill the 5l jug
+6. Pour 1l into the remaining space in the 3l jug leaving 4l in the 5l jug
